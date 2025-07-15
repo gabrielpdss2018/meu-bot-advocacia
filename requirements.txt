@@ -1,7 +1,4 @@
-```
 Flask
 requests
 pytz
 gunicorn
-```
-*(Gunicorn é um servidor web profissional para Python que a Render usará para rodar seu bot de forma estável).*
